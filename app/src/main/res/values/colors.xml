@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#0091EA</color>
-    <color name="colorPrimaryDark">#000000</color>
-    <color name="colorPurpleLight">#8B0000</color>
-    <color name="colorPurpleDark">#800000</color>
+
+    <color name="colorPrimary">#8B0000</color>
+    <color name="colorPrimaryDark">#800000</color>
     <color name="colorTextBlack">#333333</color>
     <color name="colorTextHint">#e1e1e1</color>
     <color name="colorTextInfo">#9b9b9b</color>
     <color name="colorGreen">#A5DE40</color>
     <color name="navColor">#80FFFFFF</color>
-    <color name="colorAccent">#FC3768</color>
+    <color name="colorPurpleLight">#00AA8D</color>
+    <color name="colorPurpleDark">#008975</color>
+    <color name="colorAccent">#1DE9B6</color>
+    <color name="colorTitle">#FFFFFF</color>
 </resources>
